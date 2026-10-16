@@ -21,4 +21,12 @@ Instrucciones rápidas para ejecutar el proyecto localmente (cuando esté comple
 - Añadir el `google-services.json` en `app/` cuando conectemos con Firebase.
 - Build & Run en un emulador o dispositivo Android.
 
+Demo de acceso (solo para pruebas)
+
+Para facilitar pruebas desde dispositivos móviles sin conectar Firebase inmediatamente, el proyecto incluye en el código una credencial demo (sólo para desarrollo):
+
+- Email: djyc2010foxy@gmail.com
+- Contraseña: TempPass#1234
+
+IMPORTANTE: Esta credencial está incluida solo para demostración y no es segura. El acceso demo debe eliminarse antes de publicar la app en producción o cuando se integre Firebase real.
 
